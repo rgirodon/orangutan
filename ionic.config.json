@@ -1,0 +1,8 @@
+{
+  "name": "Orangutan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "9f1675bd"
+}
